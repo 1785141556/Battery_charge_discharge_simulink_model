@@ -47,3 +47,6 @@ Here is simulink model.
 
 Here you can change your battery  parameters.
 <img width="1366" height="580" alt="image" src="https://github.com/user-attachments/assets/1adc03b3-67fa-46aa-9e22-aa99fff186c1" />
+
+Here is my result voltage-time.
+<img width="2822" height="1488" alt="image" src="https://github.com/user-attachments/assets/31bde012-cbdd-46f0-9a58-6e39d344a234" />
