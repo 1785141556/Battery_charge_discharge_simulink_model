@@ -18,7 +18,7 @@ Project Structure
 Core Files:
 parament_set_save_data.m - Configures battery parameter inconsistencies and initial settings
 
-Special_condition.slx - Main Simulink simulation model for battery cluster behavior
+CC_ST_DIS.slx - Main Simulink simulation model for battery cluster behavior
 
 sumlink_data_save.m - Processes simulation data from workspace and generates visualizations/Excel outputs
 
@@ -53,3 +53,5 @@ Usage
 Clone the repository and ensure all files are in the same directory. Follow the sequential workflow described above to set up parameters, run simulations, and analyze results. The system supports customization of battery types, operational conditions, and parameter distributions for comprehensive battery cluster analysis.
 
 This introduction clearly explains the project's purpose, structure, and workflow while maintaining a professional tone suitable for GitHub.
+<img width="2438" height="1146" alt="image" src="https://github.com/user-attachments/assets/29c8843a-378b-49a7-ac12-56a7e5b51c69" />
+
